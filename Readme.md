@@ -8,8 +8,7 @@ Secret manager is used for managing secret keys. Working with bigger application
 
 ### Sections
 
-- [Create auto secret](./example00_create_auto_secret)
-- [Rotate secret with lambda](./example01_rotate_secret_with_lambda)
+- [Secret Manager](./step13_secret_manager)
 
 ### Reading Material
 
